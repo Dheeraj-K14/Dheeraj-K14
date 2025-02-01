@@ -1,6 +1,7 @@
 ## Hi there! 👋 I'm Dheeraj Kumar
 ![Profile Views](https://komarev.com/ghpvc/?username=Dheeraj-K14&label=Profile%20views&color=blue&style=flat)
 
+---
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-kumar-k-a-102019168)
@@ -37,7 +38,7 @@
 ---
 
 ## 🎯 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-K14&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-K14&layout=compact&theme=radical)](https://github.com/Dheeraj-K14/github-readme-stats)
 
 ---
 
