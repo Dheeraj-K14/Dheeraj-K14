@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Dheeraj Kumar
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Dheeraj-K14&label=Profile%20views&color=blue&style=flat)
 
 
 ## Connect with me:
@@ -27,17 +27,17 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-K14&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Contribution Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-K14&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🎯 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-K14&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
