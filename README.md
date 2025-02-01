@@ -28,17 +28,17 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-K14&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-K14&show_icons=true&theme=default)
 
 ---
 
 ## 🔥 Contribution Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-K14&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-K14&theme=default)](https://git.io/streak-stats)
 
 ---
 
 ## 🎯 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-K14&layout=compact&theme=radical)](https://github.com/Dheeraj-K14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-K14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
