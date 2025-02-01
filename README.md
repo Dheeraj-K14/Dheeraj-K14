@@ -1,4 +1,6 @@
 ## Hi there! 👋 I'm Dheeraj Kumar
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=blue&style=flat)
+
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-kumar-k-a-102019168)
